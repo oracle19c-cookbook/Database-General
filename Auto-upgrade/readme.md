@@ -14,7 +14,5 @@
 <H2><font color="green"> 참고자료 </fornt></H2>
 <H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/upgrd/using-autoupgrade-oracle-database-upgrades.html#GUID-71883C8C-7A34-4E93-8955-040CB04F2109"> 
 19c Auto Upgrade Document </a> </H3>
-<H3><a href="https://www.oracle.com/a/tech/docs/sharding-19c-new-features.pdf">
-19c Sharding New Feature </a> </H3>
-<H3><a href="https://www.oracle.com/technetwork/database/availability/sharding-faq-3610620.pdf"> Sharding FAQ </a></H3>
-<H3><a href="https://learn.oracle.com/ords/training/db_pages.getpage?page_id=724&get_params=streamId:21,p_loId:17210#"> Sharding Overview 동영상 </a></H3>
+<H3><a href="https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=419401749798929&id=2485457.1&_afrWindowMode=0&_adf.ctrl-state=etrgg3151_4">
+Auto Upgrade tool 다운로드 </a> </H3>
