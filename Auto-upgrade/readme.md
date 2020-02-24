@@ -12,8 +12,8 @@
 <H3><a href="https://mikedietrichde.com/hol-19c-autoupgrade/"> Auto Upgrade 실습자료 (by Oracle Mike Dietrich) </a></H3>
 
 <H2><font color="green"> 참고자료 </fornt></H2>
-<H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/shard/sharding-deployment.html#GUID-F99B8742-4089-4E77-87D4-4691EA932207"> 
-19c Sharding Document </a> </H3>
+<H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/upgrd/using-autoupgrade-oracle-database-upgrades.html#GUID-71883C8C-7A34-4E93-8955-040CB04F2109"> 
+19c Auto Upgrade Document </a> </H3>
 <H3><a href="https://www.oracle.com/a/tech/docs/sharding-19c-new-features.pdf">
 19c Sharding New Feature </a> </H3>
 <H3><a href="https://www.oracle.com/technetwork/database/availability/sharding-faq-3610620.pdf"> Sharding FAQ </a></H3>
