@@ -18,3 +18,5 @@ Managing very long lists in 12.2 with LISTAGG </a> </H3>
 "> 18c Private Temporary Tables </a></H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_F81HIRL1224HEI4PJS71CCBPI.html
 "> 18c Scalable Sequences </a></H3>
+<H3><a href="https://livesql.oracle.com/apex/livesql/file/content_GAD3PVT9RJIL4OKBSM0EYZIFJ.html
+"> 18c Approx Count Function </a></H3>
