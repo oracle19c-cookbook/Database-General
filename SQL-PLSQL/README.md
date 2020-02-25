@@ -13,7 +13,7 @@
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_E31RZEWUHFL8VR4FNXRFWL00A.html
 "> 12.2 Find COMMITs and ROLLBACKs in Code with PL/Scope </a></H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_GBSPKG60QQZG6I7MRLS1V5BPG.html
-"> 18c - JSON Enhancments </a></H3>
+"> 18c JSON Enhancments </a></H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_GAD3PVUCHINEPIQK4IKDXALT7.html
 "> 18c Private Temporary Tables </a></H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_F81HIRL1224HEI4PJS71CCBPI.html
