@@ -28,3 +28,7 @@
 "> 19c How to update part of a JSON document with JSON_mergepatch </a></H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_HUIN1Y0MEMG4CLORXNX04I6C7.html
 "> 19c JSON_serialize </a></H3>
+
+<H2><font color="green"> 참고자료 </fornt></H2>
+<H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/index.html"> 
+19c SQL Language Reference </a> </H3>
