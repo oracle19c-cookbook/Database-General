@@ -15,3 +15,10 @@
 <H2><font color="green"> 참고자료 </fornt></H2>
 <H3><a href="https://www.oracle.com/technetwork/database/options/partitioning/partitioning-wp-12c-1896137.pdf"> 
 19c Partitioning White Paper </a> </H3>
+
+<H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/12.2/vldbg/index.html"> 
+12.2 VLDB and Partitioning Guide </a> </H3>
+<H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/18/vldbg/index.html"> 
+18c VLDB and Partitioning Guide </a> </H3>
+<H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/vldbg/index.html"> 
+19c VLDB and Partitioning Guide </a> </H3>
