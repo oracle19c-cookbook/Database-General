@@ -6,7 +6,7 @@
 <img src="https://docs.oracle.com/en/database/oracle/oracle-database/19/upgrd/img/autoupgrade-workflow.png">
 
 <H2><font color="green"> 소개자료 </fornt></H2>
-<H3><a href="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Sharding/Overview-Oracle_Sharding.pdf"> Sharding Overview </a></H3>
+<H3><a href="https://github.com/oracle19c-cookbook/Database-General/blob/master/Auto-upgrade/Auto%20Upgrade_Overview.pdf"> Auto Upgrade Overview </a></H3>
 
 <H2><font color="green"> Hands-On</fornt></H2>
 <H3><a href="https://mikedietrichde.com/hol-19c-autoupgrade/"> Auto Upgrade 실습자료 (by Oracle Mike Dietrich) </a></H3>
