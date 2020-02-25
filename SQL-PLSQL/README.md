@@ -10,3 +10,5 @@
 Managing very long lists in 12.2 with LISTAGG </a> </H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/tutorial_EDVE861H6UF4Z20EV0RM4DK2G.html
 "> SQL/JSON Features in Database 12.2 </a></H3>
+<H3><a href="https://livesql.oracle.com/apex/livesql/file/content_E31RZEWUHFL8VR4FNXRFWL00A.html
+"> Find COMMITs and ROLLBACKs in Code with PL/Scope 12.2 </a></H3>
