@@ -23,7 +23,7 @@ Managing very long lists in 12.2 with LISTAGG </a> </H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_HT1O85E4BHSBWN93G1B3M8SI2.html
 "> 19c LISTAGG DISTINCT </a></H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_HT1U9Z9IZB03YZOD77B6D5411.html
-"> 19c JSON_OBJECT </a></H3>
+"> 19c JSON Syntax simplifications </a></H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_HUB30QTK3RRR7J1EYJ8R35SPM.html
 "> 19c How to update part of a JSON document with JSON_mergepatch </a></H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_HUIN1Y0MEMG4CLORXNX04I6C7.html
