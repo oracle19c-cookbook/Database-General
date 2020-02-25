@@ -21,4 +21,6 @@ Managing very long lists in 12.2 with LISTAGG </a> </H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_HR0J8BA2K99VZWT51TU1OCGJ4.html
 "> 18c SODA API for PL/SQL </a></H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_HT1O85E4BHSBWN93G1B3M8SI2.html
-"> 19C LISTAGG DISTINCT </a></H3>
+"> 19c LISTAGG DISTINCT </a></H3>
+<H3><a href="https://livesql.oracle.com/apex/livesql/file/content_HT1U9Z9IZB03YZOD77B6D5411.html
+"> 19c JSON_OBJECT </a></H3>
