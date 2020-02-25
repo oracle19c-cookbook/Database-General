@@ -16,3 +16,5 @@ Managing very long lists in 12.2 with LISTAGG </a> </H3>
 "> Oracle 18c - JSON Enhancments </a></H3>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/content_GAD3PVUCHINEPIQK4IKDXALT7.html
 "> 18c Private Temporary Tables </a></H3>
+<H3><a href="https://livesql.oracle.com/apex/livesql/file/content_F81HIRL1224HEI4PJS71CCBPI.html
+"> 18c Scalable Sequences </a></H3>
