@@ -1,7 +1,6 @@
+## Oracle-Base 자료
 
-<H2><font color="green"> ORACLE-BASE 자료</fornt></H2>
+- [Online MERGE PARTITION and MERGE SUBPARTITION in Oracle Database 18c](https://oracle-base.com/articles/18c/online-merge-partition-and-subpartition-18c)
+- [ Online Operation Enhancements in Oracle Database 12c Release 1](https://oracle-base.com/articles/12c/online-operation-enhancements-12cr1)
+- [Upgrading to Oracle Database 19c](https://oracle-base.com/articles/19c/multitenant-upgrading-to-19c)
 
-<h3><a href="https://oracle-base.com/articles/18c/online-merge-partition-and-subpartition-18c">
-  Online MERGE PARTITION and MERGE SUBPARTITION in Oracle Database 18c </a></h3>
-<h3><a href="https://oracle-base.com/articles/12c/online-operation-enhancements-12cr1">
-  Online Operation Enhancements in Oracle Database 12c Release 1 (12.1)</a></h3>
