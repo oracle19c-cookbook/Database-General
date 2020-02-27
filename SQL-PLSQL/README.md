@@ -8,7 +8,7 @@
 ![](https://github.com/oracle19c-cookbook/Database-General/blob/master/SQL-PLSQL/SQL_NEW_FEATURES.jpg)
 
 - Oracle 12.2에서 Data Validation 기능이 강화되어 Date형 및 숫자형 데이터의 구분이 가능해지고, 에러핸들링 기능이 강화되었습니다. 
-- Oracle 18c에서 Live SQL 기능으로 웹상에서 간단한 SQL을 테스트 할 수 잇게 되었습니다. 또한 JSON 기능이 강화되었으며, Private Temporyray Table 기능으로 임시테이블을 사용 후 자동으로 삭제할 수 있게 되었습니다.  
+- Oracle 18c에서 Live SQL 기능으로 웹상에서 간단한 SQL을 테스트를 할 수 있게 되었습니다. 또한 JSON 기능이 강화되었으며, Private Temporyray Table 기능으로 임시테이블을 사용 후 자동으로 삭제할 수 있게 되었습니다.  
 - Oracle 19c 에서 LISTAGG 집계 함수에 DISTINCT를 사용할 수 있게 되어 중복 데이터를 제거할 수 있게 되었으며, JSON 데이터의 부분 업데이트도 가능해졌습니다. 
 
 ## Hands-On
