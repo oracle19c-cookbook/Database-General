@@ -17,8 +17,9 @@
 
 - [LISTAGG DISTINCT](https://livesql.oracle.com/apex/livesql/file/content_HT1O85E4BHSBWN93G1B3M8SI2.html)
 - [JSON Syntax 간편화](https://livesql.oracle.com/apex/livesql/file/content_HT1U9Z9IZB03YZOD77B6D5411.html)
-- [JSON 문서 부분 업데이트](https://livesql.oracle.com/apex/livesql/file/content_HUB30QTK3RRR7J1EYJ8R35SPM.html)
+- [JSON 문서 부분 업데이트 함수](https://livesql.oracle.com/apex/livesql/file/content_HUB30QTK3RRR7J1EYJ8R35SPM.html)
 - [JSON_serialize 함수](https://livesql.oracle.com/apex/livesql/file/content_HUIN1Y0MEMG4CLORXNX04I6C7.html)
+- [전반적인 JSON 사용법](https://blogs.oracle.com/sql/how-to-store-query-and-create-json-documents-in-oracle-database)
 
 #### Oracle 18c 
 
