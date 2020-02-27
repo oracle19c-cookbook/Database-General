@@ -2,7 +2,7 @@
 <H1>SQL - PL/SQL</H1>
 
 오라클 Database 12.2, 18c, 19c의 SQL 및 PL/SQL의 신기능을 정리하였습니다.
-![](https://github.com/oracle19c-cookbook/Performance-Management/blob/master/performance.jpg)
+![](https://github.com/oracle19c-cookbook/Database-General/blob/master/SQL-PLSQL/SQL_NEW_FEATURES.jpg)
 
 <H2><font color="green"> Hands-On</fornt></H2>
 <H3><a href="https://livesql.oracle.com/apex/livesql/file/tutorial_EDVE861IMHO1W3Q654ES9EQQW.html"> 
