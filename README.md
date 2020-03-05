@@ -1,2 +1,13 @@
-# Database-General
-SQL (오동규) PLSQL (오동규) Partitioning (오동규) Online Opertation (유경진) Auto upgrade(이은혜)
+Database General
+===
+[Online-Opertation](https://github.com/oracle19c-cookbook/Database-General/tree/master/Online-Opertation)
+---
+
+[Partitioning](https://github.com/oracle19c-cookbook/Database-General/tree/master/Partitioning)
+---
+
+[SQL-PLSQL](https://github.com/oracle19c-cookbook/Database-General/tree/master/SQL-PLSQL)
+---
+
+[Auto-upgrade](https://github.com/oracle19c-cookbook/Database-General/tree/master/Auto-upgrade)
+---
